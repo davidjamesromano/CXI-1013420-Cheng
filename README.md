@@ -1,5 +1,5 @@
-# CXI-Template
-Template fast-analysis code for CXI Experiments
+# CXI-1013420-Cheng
+Code for the CXI-1013420-Cheng beamtime at the LCLS. Generated from the CXI-Template repo.
 
 ### To set up the environment that is needed for this code, run the following commands.
 ```bash
